@@ -6,6 +6,7 @@
   "dependencies": {
     "babel-cli": "^6.24.1",
     "babel-preset-env": "^1.4.0",
+    "cors": "^2.8.3",
     "express": "^4.15.2",
     "lodash": "^4.17.4",
     "randomstring": "^1.1.5",
